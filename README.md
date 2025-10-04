@@ -3,7 +3,7 @@ In this project we will assume that we have recently been hired as a Data Analys
 
 As a Data Analyst, we will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
 
-Our first task is to collect the top programming skills that are most in demand from various sources including: Job postings / Training portals / Surveys
+Our first task is to collect the top programming skills that are most in demand from various sources including: Job postings/Surveys.
 
 Once we have collected enough data, we will begin analyzing the data and identify insights and trends.
 
