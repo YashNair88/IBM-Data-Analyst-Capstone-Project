@@ -8,3 +8,5 @@ Our first task is to collect the top programming skills that are most in demand 
 Once we have collected enough data, we will begin analyzing the data and identify insights and trends.
 
 Each step of the data analysis process is shown in different notebook of this repository and some aditional files needed for their understanding.
+
+Dashboard Link : https://ap1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2BCapstone%2BProject%2BDashboard&action=view&mode=dashboard&subView=model00000199a995152b_00000007
